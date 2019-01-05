@@ -2,3 +2,4 @@ https://github.com/Qt-Widgets
 https://github.com/uri247
 https://github.com/uri247/Win81Desktop
 https://github.com/uri247/Win81App/tree/master
+https://github.com/RinatB2017/Qt_github/tree/master
